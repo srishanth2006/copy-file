@@ -78,6 +78,7 @@ while True:
 ### OUTPUT:
 <img width="354" alt="Screenshot 2023-12-26 181241" src="https://github.com/srishanth2006/copy-file/assets/150319470/199f26db-6ee7-4c3d-bbfa-a32ba78bb886">+
 
+<img width="356" alt="Screenshot 2023-12-26 181453" src="https://github.com/srishanth2006/copy-file/assets/150319470/46c2dd6e-c9d3-4c15-9120-75cd453f6a9b">
 
 
 ## RESULT:
